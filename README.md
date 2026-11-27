@@ -31,12 +31,12 @@ python3 caesar_cipher.py
 ## Example
 
 **Input:**
-- Message: HELLO
-- Shift: 3
+- Message: AKASH PANDA
+- Shift: 7
 
 **Output:**
-- Encrypted Message: KHOOR
-- Decrypted Message: HELLO
+- Encrypted Message: 
+- Decrypted Message: AKASH PANDA
 
 ## Learning Outcomes
 - Understanding basic encryption and decryption.
