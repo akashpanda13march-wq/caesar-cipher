@@ -35,7 +35,7 @@ python3 caesar_cipher.py
 - Shift: 7
 
 **Output:**
-- Encrypted Message: 
+- Encrypted Message: HRHZO WHUKH
 - Decrypted Message: AKASH PANDA
 
 ## Learning Outcomes
